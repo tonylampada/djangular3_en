@@ -1,0 +1,7 @@
+*.pyc
+frontend/dist/
+frontend/bower_components
+frontend/node_modules
+cameras/static/js
+cameras/static/css
+coverage/
