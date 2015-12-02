@@ -3,7 +3,7 @@
 Django and AngularJS starter app.
 
 * [(Video) Project setup](https://youtu.be/okWBei-rK_A)
-* [(Blog post)More detailed explanations about what happen in the frontend](https://dicasdolampada.wordpress.com/2015/06/25/a-awesome-setup-for-your-angularjs-project-13/)
+* [(Blog post) More detailed explanations about what happen in the frontend](https://dicasdolampada.wordpress.com/2015/06/25/a-awesome-setup-for-your-angularjs-project-13/)
 * [(Video) Google Hangout explaining more details about this project](https://www.youtube.com/watch?v=rKwpU7_10XI)
 
 # OS setup
